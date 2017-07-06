@@ -1,10 +1,7 @@
 # hello-world
-Evaluating some GitHub functionality and experimenting with the API
 
-## TODO
-- [ ] extend issues to support multiple use cases
-- [ ] use LFS for binary documents
-- [ ] review grnaularity of permissions
-- [ ] integration with chat/messaging
-- [ ] generate reports/dashboards from issues/other data
-- [ ] chat/message/commit/cron based automation
+What should go in this readme?
+
+For working doco of the project use the [wiki](https://github.com/tim-ainge/hello-world/wiki/Hello-World!)?
+
+For artefacts generated from the repo contents check out the project pages [here](https://tim-ainge@github.io/hello-world).
