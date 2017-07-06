@@ -7,3 +7,4 @@ Evaluating some GitHub functionality and experimenting with the API
 - [ ] review grnaularity of permissions
 - [ ] integration with chat/messaging
 - [ ] generate reports/dashboards from issues/other data
+- [ ] chat/message/commit/cron based automation
